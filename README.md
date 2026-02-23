@@ -1,5 +1,5 @@
-# [Project Name - Youtube Video Downloader]
-A simple Python project for Activity 1 in [Object Oriented Programming ].
+# Project Name - Youtube Video Downloader
+A simple Python project for Activity 1 in Object Oriented Programming.
 
 ## Requirements
 To run this project, you need:
